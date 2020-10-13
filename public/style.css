@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#app {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 2em;
+}
+
+nav > * {
+  margin-right: 2em;
+}
+
+main {
+  margin: 1em;
+}
