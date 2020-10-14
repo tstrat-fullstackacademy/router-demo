@@ -20,3 +20,11 @@ nav > * {
 main {
   margin: 1em;
 }
+
+a {
+  text-decoration: none;
+}
+
+.selected {
+  color: red;
+}
